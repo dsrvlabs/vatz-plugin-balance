@@ -1,5 +1,5 @@
 # vatz-plugin-balance
-## USage
+## Usage
 ```
 Usage of ./plugins/node_balance_alaram/node_balance_alaram:
   -accountAddr string
