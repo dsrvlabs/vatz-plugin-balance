@@ -1,4 +1,6 @@
 # vatz-plugin-balance
+## It is based on vatz-plugin-cosmoshub
+- https://github.com/dsrvlabs/vatz-plugin-cosmoshub
 ## Usage
 ```
 Usage of ./plugins/node_balance_alaram/node_balance_alaram:
